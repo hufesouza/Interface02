@@ -1,0 +1,15 @@
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/bin/Debug/net5.0/InterfaceDemo2.deps.json
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/bin/Debug/net5.0/InterfaceDemo2.runtimeconfig.json
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/bin/Debug/net5.0/InterfaceDemo2.runtimeconfig.dev.json
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/bin/Debug/net5.0/InterfaceDemo2.dll
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/bin/Debug/net5.0/ref/InterfaceDemo2.dll
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/bin/Debug/net5.0/InterfaceDemo2.pdb
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.csproj.AssemblyReference.cache
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.AssemblyInfoInputs.cache
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.AssemblyInfo.cs
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.csproj.CoreCompileInputs.cache
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.dll
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/ref/InterfaceDemo2.dll
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.pdb
+/Users/hugof/Projects/InterfaceDemo2/InterfaceDemo2/obj/Debug/net5.0/InterfaceDemo2.genruntimeconfig.cache
